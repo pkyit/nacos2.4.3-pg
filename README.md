@@ -1,4 +1,6 @@
 ### 这是nacos2.4.3适配postgresql数据库
+[https://github.com/pkyit/nacos2.4.3-pg/releases/tag/nacos2.4.3-pg-download](https://github.com/pkyit/nacos2.4.3-pg/releases/tag/nacos2.4.3-pg-download)
+
 ### 先得把依赖和maven插件全部安装到位不报红才行
 <img width="2559" height="1341" alt="image" src="https://github.com/user-attachments/assets/f8aef39d-3fa8-4366-80a5-8004e49a5ced" />
 
