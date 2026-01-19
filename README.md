@@ -7,5 +7,7 @@
    mvn -Prelease-nacos -Dmaven.test.skip=true -Dpmd.skip=true -Drat.skip=true -Dcheckstyle.skip=true clean install -U
 ```
 ##### docker镜像：
-1、      docker pull --platform=linux/amd64 registry.aliyuncs.com/pkyit/nacos:2.4.3-pg
-2、      docker pull --platform=linux/arm64 registry.aliyuncs.com/pkyit/nacos:2.4.3-pg
+```shell
+      docker pull --platform=linux/amd64 registry.aliyuncs.com/pkyit/nacos:2.4.3-pg
+     docker pull --platform=linux/arm64 registry.aliyuncs.com/pkyit/nacos:2.4.3-pg
+```
